@@ -40,5 +40,3 @@ The project follows a layered architecture:
 - Clean layered architecture
 
 ---
-
-This project demonstrates structured execution management, modular design, and advanced object-oriented programming concepts.
