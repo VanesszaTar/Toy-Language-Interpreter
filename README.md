@@ -10,7 +10,7 @@ A custom interpreter for a toy programming language developed as part of the **A
 - File table handling
 - Static type checking
 - Custom Abstract Data Types (Stack, Dictionary, List, Heap)
-- Concurrency support via `ForkStmt`
+- Concurrency support
 - Console interface
 - JavaFX GUI for program visualization
 
